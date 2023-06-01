@@ -1,4 +1,8 @@
 ### Hi there 👋
+# [Kenneth Weiss]
+
+## About Me
+I am a passionate software developer with expertise in various programming languages and technologies. I love solving complex problems and creating efficient, scalable solutions. My areas of interest include web development, machine learning, and cloud computing.
 
 <!--
 **KennethWeiss/KennethWeiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
